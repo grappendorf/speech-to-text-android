@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speech To Text</string>
+    <string name="tap_to_start">Tap to start recording</string>
+    <string name="tap_to_stop">Tap to stop recording</string>
+    <string name="recording">Recording in progress…</string>
+    <string name="quit">Quit</string>
+</resources> 
